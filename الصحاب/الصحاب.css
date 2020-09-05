@@ -1,0 +1,12 @@
+h1{
+    text-align-last: center;
+    font-style: italic;
+}
+div{
+    text-align-last: center;
+}
+body{
+    background-color: gray;
+    font-size: 200%;
+    color: rgba(24, 204, 105, 0.473);
+}
